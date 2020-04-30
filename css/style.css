@@ -91,7 +91,7 @@ h6 {
 
 /*--------------------*/
 .what {
-  height: 100%;
+  min-height: 100%;
   overflow: hidden;
   font-family: "Titillium Web", sans-serif;
   background-color: #d74680;
